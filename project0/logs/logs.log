@@ -1,0 +1,115 @@
+16:51:46 [main] ERROR driver.Driver - TEST
+16:51:57 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+17:01:22 [main] ERROR driver.Driver - TEST
+17:01:35 [main] INFO  services.UserService - User: User id:3, username:jon, password:smith was created.
+17:02:52 [main] ERROR driver.Driver - TEST
+17:02:59 [main] INFO  services.UserService - User: User id:4, username:stan, password:man was created.
+17:04:05 [main] ERROR driver.Driver - TEST
+17:04:12 [main] INFO  services.UserService - User: User id:5, username:bub, password:bub was created.
+17:04:57 [main] ERROR driver.Driver - TEST
+17:05:05 [main] INFO  driver.Driver - Create, username: 
+17:05:43 [main] ERROR driver.Driver - TEST
+17:05:56 [main] INFO  driver.Driver - Create, username: 
+17:06:44 [main] ERROR driver.Driver - TEST
+17:34:03 [main] ERROR driver.Driver - TEST
+17:45:52 [main] ERROR driver.Driver - TEST
+17:46:07 [main] INFO  driver.Driver - OfferAmount: 4000 OfferStatus: null Username: null OfferId: 5 ProductId: 1
+17:46:21 [main] ERROR driver.Driver - TEST
+17:46:27 [main] INFO  driver.Driver - OfferAmount: 4000 OfferStatus: null Username: null OfferId: 6 ProductId: 1
+17:48:58 [main] ERROR driver.Driver - TEST
+17:52:56 [main] ERROR driver.Driver - TEST
+17:53:46 [main] INFO  driver.Driver - Create, username: 
+17:54:02 [main] INFO  services.UserService - User: User id:3, username:jon, password:smith was created.
+17:54:02 [main] INFO  driver.Driver - User id:3, username:jon, password:smith
+17:55:10 [main] ERROR driver.Driver - TEST
+17:55:14 [main] INFO  services.UserService - User: User id:4, username:a, password:a was created.
+17:55:14 [main] INFO  driver.Driver - User id:4, username:a, password:a
+17:55:56 [main] ERROR driver.Driver - TEST
+17:55:59 [main] INFO  services.UserService - User: User id:5, username:b, password:b was created.
+17:55:59 [main] INFO  driver.Driver - User id:5, username:b, password:b
+17:56:21 [main] ERROR driver.Driver - TEST
+17:56:26 [main] INFO  services.UserService - User: User id:6, username:c, password:c was created.
+18:18:21 [main] ERROR driver.Driver - TEST
+18:23:09 [main] ERROR driver.Driver - TEST
+18:23:23 [main] ERROR driver.Driver - TEST
+18:26:35 [main] ERROR driver.Driver - TEST
+18:28:12 [main] ERROR driver.Driver - TEST
+18:28:45 [main] ERROR driver.Driver - TEST
+18:29:13 [main] ERROR driver.Driver - TEST
+18:30:37 [main] ERROR driver.Driver - TEST
+18:30:57 [main] ERROR driver.Driver - TEST
+18:31:16 [main] ERROR driver.Driver - TEST
+18:32:46 [main] ERROR driver.Driver - TEST
+18:33:00 [main] ERROR driver.Driver - TEST
+18:34:04 [main] ERROR driver.Driver - TEST
+19:26:16 [main] ERROR driver.Driver - TEST
+19:27:14 [main] ERROR driver.Driver - TEST
+19:28:15 [main] ERROR driver.Driver - TEST
+19:29:52 [main] ERROR driver.Driver - TEST
+19:32:47 [main] ERROR driver.Driver - TEST
+19:33:12 [main] ERROR driver.Driver - TEST
+19:33:59 [main] ERROR driver.Driver - TEST
+19:35:00 [main] ERROR driver.Driver - TEST
+19:37:29 [main] ERROR driver.Driver - TEST
+19:37:33 [main] INFO  services.UserService - User: User id:7, username:d, password:d was created.
+19:38:40 [main] ERROR driver.Driver - TEST
+19:38:45 [main] INFO  services.UserService - User: User id:8, username:e, password:e was created.
+19:38:58 [main] ERROR driver.Driver - TEST
+19:39:04 [main] INFO  services.UserService - User: User id:9, username:f, password:f was created.
+19:50:43 [main] ERROR driver.Driver - TEST
+19:50:51 [main] INFO  services.UserService - User: User id:10, username:1, password:1 was created.
+19:52:46 [main] ERROR driver.Driver - TEST
+19:53:11 [main] INFO  services.UserService - User: User id:11, username:2, password:2 was created.
+19:54:06 [main] ERROR driver.Driver - TEST
+19:54:15 [main] INFO  services.UserService - User: User id:12, username:3, password:3 was created.
+19:55:06 [main] ERROR driver.Driver - TEST
+19:55:10 [main] INFO  services.UserService - User: User id:13, username:4, password:4 was created.
+19:56:03 [main] ERROR driver.Driver - TEST
+19:56:16 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+20:08:27 [main] ERROR driver.Driver - TEST
+20:28:47 [main] ERROR driver.Driver - TEST
+20:37:32 [main] ERROR driver.Driver - TEST
+20:38:36 [main] ERROR driver.Driver - TEST
+20:39:30 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+20:41:55 [main] ERROR driver.Driver - TEST
+20:41:59 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+20:42:38 [main] ERROR driver.Driver - TEST
+20:42:42 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+20:43:32 [main] ERROR driver.Driver - TEST
+20:43:36 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+20:45:09 [main] ERROR driver.Driver - TEST
+20:47:38 [main] ERROR driver.Driver - TEST
+20:48:20 [main] ERROR driver.Driver - TEST
+20:48:37 [main] ERROR driver.Driver - TEST
+20:48:41 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+20:48:45 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+20:51:38 [main] ERROR driver.Driver - TEST
+20:52:08 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+20:52:28 [main] ERROR driver.Driver - TEST
+20:53:18 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+21:02:59 [main] ERROR driver.Driver - TEST
+21:03:08 [main] INFO  services.UserService - User: User id:14, username:10, password:10 was created.
+21:03:19 [main] INFO  driver.Driver - OfferAmount: 10000 OfferStatus: null Username: 10 OfferId: 5 ProductId: 3
+21:05:13 [main] INFO  driver.Driver - OfferAmount: 10000 OfferStatus: null Username: 10 OfferId: 6 ProductId: 2
+21:05:50 [main] ERROR driver.Driver - TEST
+21:05:54 [main] INFO  services.UserService - User: User id:15, username:11, password:11 was created.
+21:06:05 [main] INFO  driver.Driver - OfferAmount: 8000 OfferStatus: null Username: 11 OfferId: 7 ProductId: 3
+21:07:18 [main] INFO  driver.Driver - OfferAmount: 50 OfferStatus: null Username: 11 OfferId: 0 ProductId: 5
+21:11:06 [main] INFO  services.UserService - User: User id:16, username:12, password:12 was created.
+21:11:17 [main] INFO  driver.Driver - OfferAmount: 60000 OfferStatus: null Username: 12 OfferId: 9 ProductId: 3
+21:15:28 [main] INFO  services.UserService - User: User id:17, username:13, password:13 was created.
+21:15:37 [main] INFO  driver.Driver - OfferAmount: 9800 OfferStatus: null Username: 13 OfferId: 10 ProductId: 1
+21:46:00 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+21:47:45 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+23:07:25 [main] INFO  services.UserService - User: User id:3, username:jon, password:smith was created.
+08:36:06 [main] INFO  services.UserService - User: User id:0, username:jon, password:smith was created.
+08:37:31 [main] INFO  services.UserService - User: User id:5, username:stan, password:man was created.
+08:42:07 [main] INFO  driver.Driver - OfferAmount: 90000 OfferStatus: null Username: username OfferId: 6 ProductId: 3
+10:18:25 [main] INFO  services.UserService - User: User id:3, username:jon, password:smith was created.
+10:19:04 [main] INFO  driver.Driver - OfferAmount: 90000 OfferStatus: null Username: jon OfferId: 3 ProductId: 3
+10:19:24 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+10:20:47 [main] INFO  driver.Driver - Product [Product_id=0, Product_name=new car, Product_description=placeholder, Product_price=0, Product_owner=null]
+10:21:03 [main] INFO  driver.Driver - true
+10:21:47 [main] INFO  driver.Driver - OfferAmount: 100000 OfferStatus: null Username: username OfferId: 4 ProductId: 1
+10:22:45 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
+10:23:39 [main] ERROR services.AuthService - Login exception was thrownexceptions.LoginException
